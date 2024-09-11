@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-breads-dev-153037-authRole",
+      "UnauthRoleArn": "arn:aws:iam::230555751422:role/amplify-breads-dev-153037-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::230555751422:role/amplify-breads-dev-153037-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-breads-dev-153037-deployment",
+      "UnauthRoleName": "amplify-breads-dev-153037-unauthRole",
+      "StackName": "amplify-breads-dev-153037",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:230555751422:stack/amplify-breads-dev-153037/5cf707f0-7007-11ef-8b40-0e05d3d0f939",
+      "AmplifyAppId": "d3ciu3yfb4394y"
+    },
+    "categories": {
+      "auth": {
+        "breadsdev": {}
+      }
+    }
+  }
+}
